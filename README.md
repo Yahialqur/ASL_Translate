@@ -12,6 +12,9 @@ ASL Translate is a real-time American Sign Language (ASL) gesture translator. It
 - **Backend**: Flask (Python)
 - **Machine Learning**: Hugging Face Transformers, Image Classification Model (`Marxulia/asl_aplhabet_img_classifier_v3`)
 
+## Live Demo
+Check out the hosted website: [ASL Translate](https://asltranslate.site/)
+
 ## Home Page
 ![Home Page](./images/ASLHome.png)
 
@@ -19,6 +22,7 @@ ASL Translate is a real-time American Sign Language (ASL) gesture translator. It
 ![ASL Prediction](./images/ASLPredict.png)
 
 ## Setup
+If you'd like to run the application locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
