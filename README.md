@@ -1,4 +1,4 @@
-#ASL Translate
+# ASL Translate
 ASL Translate is a real-time American Sign Language (ASL) gesture translator. It uses a webcam to capture ASL gestures, processes them through a pre-trained model, and outputs the corresponding letter or word as text.
 
 ## Features
