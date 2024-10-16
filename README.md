@@ -10,7 +10,7 @@ ASL Translate is a real-time American Sign Language (ASL) gesture translator. It
 ## Technologies
 - **Frontend**: JavaScript, CSS, HTML (React)
 - **Backend**: Flask (Python)
-- **Machine Learning**: Hugging Face Transformers, Image Classification Model (`Marxulia/asl_aplhabet_img_classifier_v3`)
+- **Machine Learning**: Vision Transformer Model from Hugging Face Transformers, Image Classification Model (`Marxulia/asl_aplhabet_img_classifier_v3`)
 
 ## Live Demo
 Check out the hosted website: [ASL Translate](https://asltranslate.site/)
